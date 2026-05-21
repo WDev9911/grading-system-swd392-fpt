@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="SWD392.GradingTool.API/SWD392.GradingTool.API.csproj" />
+  <Project Path="SWD392.GradingTool.Application/SWD392.GradingTool.Application.csproj" />
+  <Project Path="SWD392.GradingTool.Domain/SWD392.GradingTool.Domain.csproj" />
+  <Project Path="SWD392.GradingTool.Infrastructure/SWD392.GradingTool.Infrastructure.csproj" />
+</Solution>
